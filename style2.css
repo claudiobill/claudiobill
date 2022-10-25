@@ -8,10 +8,10 @@ body {
   background-color: #eafbff;
   background-image: linear-gradient(
     to bottom,
-    #eafbff 0%,
+    #940d94 0%,
     #eafbff 50%,
-    #5290f9 50%,
-    #5290f9 100%
+    #adca08 50%,
+    #db511a 100%
   );
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -84,7 +84,7 @@ nav ul a {
 }
 
 .icon .line {
-  background-color: #5290f9;
+  background-color: #801071;
   height: 2px;
   width: 20px;
   position: absolute;
