@@ -60,7 +60,7 @@ body {
 }
 
 .nav-red {
-  background-color: rgba(12, 247, 32, 0.747);
+  background-color: hsla(125, 40%, 44%, 0.747);
   width: 95%;
   transition-delay: 0.4s;
 }
